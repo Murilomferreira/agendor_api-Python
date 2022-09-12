@@ -4,7 +4,7 @@ import json
 class People:
     """
         People Agendor
-        ~~~~~~~~~~~~~~~~~~~~~
+        ~~~~~~~~~~~~~~~
 
         - listPeople : List and search for people. |
         BR : Lista e procura todas pessoas

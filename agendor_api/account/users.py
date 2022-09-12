@@ -4,16 +4,16 @@ import json
 class Users:
     """
     Users Agendor
-    ~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~~~
 
     - list_users :  List and search users of your account. | BR: Lista e procura todos os usuários de sua conta.
     ~~~~~~~~~~~~~
 
     - get_current_user : Get information about the authenticated user. | BR : Pega a informação sobre o usuário autenticado. 
-    ~~~~~~~~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~~~~~~
  
     - update_user : Activate or inactivate a specific user. | BR : Ative ou desative um usuário específico. 
-    ~~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~~~
 
     """
     def list_users(self, authorization_token) -> requests:

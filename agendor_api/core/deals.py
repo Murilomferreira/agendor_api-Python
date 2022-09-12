@@ -6,7 +6,7 @@ from datetime import date
 class Deals:  
     """
     Deals Agendor
-    ~~~~~~~~~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~~
 
     - list_deals_of_person :  List deals of this person. | BR : lista os negócios de uma determinada pessoa.
     ~~~~~~~~~~~~~~~~~~~~

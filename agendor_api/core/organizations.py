@@ -4,7 +4,7 @@ import json
 class Organizations:
     """
     Organizations Agendor
-    ~~~~~~~~~~~~~~~~~~~~~
+    ~~~~~~~~~~~~~~~~~~~~
 
     - listOrganizations : List and search for organizations. |
     BR : Lista e procura todas organizações
